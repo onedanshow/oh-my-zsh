@@ -111,5 +111,6 @@ alias heroku='nocorrect heroku'
 alias h='heroku'
 alias jitsu='nocorrect jitsu'
 alias guard='bundle exec guard'
+alias m='bundle exec middleman'
 
 
